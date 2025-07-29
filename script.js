@@ -491,7 +491,7 @@ function processSubmission() {
         'q41': 'Papaver somniferum', 'q42': 'Apium graveolens', 'q43': 'Achyranthes aspera', 'q44': 'Cissus quadrangularis', 'q45': 'Solanum indicum',
         'q46': 'Cassia tora', 'q47': 'Coriandrum sativum', 'q48': 'Elettaria cardamomum', 'q49': 'Gmelina arborea', 'q50': 'Hibiscus rosa-sinensis',
         'q51': 'Myristica fragrans', 'q52': 'Cuminum cyminum', 'q53': 'Andrographis paniculata', 'q54': 'Mallotus philippensis', 'q55': 'Macrotyloma uniflorum',
-        'q56': 'Crocus sativus', 'q57': 'Saussurea lappa', 'q58': 'Carthamus tinctorius', 'q59': 'Syzygium aromaticum' , 'q60': 'GentelMen'
+        'q56': 'Crocus sativus', 'q57': 'Saussurea lappa', 'q58': 'Carthamus tinctorius', 'q59': 'Syzygium aromaticum' , 'q60': 'Gentleman'
     };
 
     let score = 0;
